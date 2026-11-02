@@ -1,0 +1,25 @@
+India vs USA Job Market Trends, Demand and Salary Analysis
+
+About the project
+
+This project is a Power BI dashboard where I compared the job market of India and the USA from January to June 2026. I used 100,009 job posting records from Fliar BI, which covers around 15K companies, 92 regions and 24 roles that are common in both countries. All the findings below are based on this sample only, so they show what this data says and not the whole job market.
+
+Job demand
+
+The USA has most of the postings in this data, about 80K jobs, while India has around 20K. Among regions, California has the highest demand with 11,867 jobs. The lowest is Arunachal Pradesh with just 1 job, which shows how uneven the postings are across regions. Healthcare is the most demanded role with 13,909 jobs and Devops-Cloud is the lowest with 556 jobs.
+
+Monthly trends
+
+Job postings were highest in January for the USA and then went down till March, which is the lowest month overall with 12,553 jobs. After that it started going up again and June became the highest month with 23,562 jobs. The USA postings kept falling from 19.6K in January to around 10K in May, but India kept growing every month.
+
+India vs USA comparison
+
+This was the most interesting part for me. India started with almost no postings in January (0.0K) and reached 10.5K in June, while the USA was 13.1K in June. So the gap became very small by the end. In job share, India went from near 0% to about 45% in June and the USA came down from 100% to about 55%. The month on month growth of India looks very big in February (over 1000%), but this is mostly because it started from a very small number, so I would not read too much into it.
+
+Salary analysis
+
+The average salary in the data is $10.12K. The USA is the highest paying country at $12,420 average, and India shows only about $0.9K, which is a very big difference. I think this might be partly because of how salary is recorded for Indian postings, so I would be careful before saying Indian jobs actually pay that low. Operations is the highest paying role and Admin is the lowest. Experts earn more on average ($14.01K) than freshers ($10.07K), but the salary by experience chart goes up and down a lot, so there is no smooth pattern. The monthly average salary also went up from $1.3K in January to $19.5K in May and then dropped a little in June.
+
+Dashboard and full research report
+
+My dashboard only uses the 100,009 record sample for January to June 2026. The full research report may use more data or clean it in a different way, so some totals, rankings and percentages can look a bit different from mine. This does not mean either one is wrong, they are just based on different amounts of data.
