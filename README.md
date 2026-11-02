@@ -173,7 +173,7 @@ Some of the calculations used in this project include:
 ## 📁 Repository Structure
 
 ``` text
-India-USA-Job-Market-Analysis/
+Job Market Trends and Skill Demand Analysis Using Data Analytics/
 │
 ├── screenshots/
 │   ├── home-page.png
@@ -210,7 +210,8 @@ SY B.Sc. Artificial Intelligence & Machine Learning
 Interested in Data Analytics, Data Science and Business Intelligence.
 
 -   [LinkedIn](https://www.linkedin.com/in/manjeet-gupta-731409296/)
--   [Portfolio](https://manjeetguptaportfolio.in)
+-   [Portfolio](https://manjeetgupta.vercel.app/)
+-   [Source of Dataset](https://fliarbi.com/datasets/job-postings-2026/)
 
 ------------------------------------------------------------------------
 
