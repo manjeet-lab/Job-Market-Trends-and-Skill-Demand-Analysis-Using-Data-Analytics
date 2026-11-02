@@ -1,4 +1,4 @@
-# India vs USA – Job Market Trends, Demand and Salary Analysis (Jan–Jun 2026)
+# India vs US – Job Market Trends, Demand and Salary Analysis (Jan–Jun 2026)
 
 An interactive **Power BI data analytics project** analysing job postings from India and the United States between January and June 2026. The dashboard supports **country-wise filtering** through interactive IN and US slicers, and shows a **combined job market view** when no country is selected. It explores job posting demand, monthly market trends, company distribution, regional demand and salary patterns.
 
