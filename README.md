@@ -1,4 +1,4 @@
-# 🇮🇳 India vs USA -- Job Market Trends, Demand and Salary Analysis
+# India vs US -- Job Market Trends, Demand and Salary Analysis Jan - June 2026
 
 An interactive **Power BI data analytics project** comparing the job
 markets of India and the United States from January to June 2026. This
