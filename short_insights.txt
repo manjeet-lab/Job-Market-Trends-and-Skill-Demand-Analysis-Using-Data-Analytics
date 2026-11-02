@@ -14,7 +14,7 @@ The USA has most of the postings in this data, about 80K jobs, while India has a
 Among regions, California has the highest demand with 11,867 jobs. The lowest is Arunachal
 Pradesh  with  just  1  job,  which  shows  how  uneven  the  postings are across regions.
 Healthcare  is the most demanded role with 13,909 jobs and Devops-Cloud is the lowest with
-556 jobs.
+556 jobs. While it can be viewed using slicer above for filering India and US
 
 Monthly trends
 
@@ -48,4 +48,7 @@ Dashboard and full research report
 My  dashboard  only  uses  the  100,009  record  sample for January to June 2026. The full
 research report may use more data or clean it in a different way, so some totals, rankings
 and  percentages  can  look  a  bit  different from mine. This does not mean either one is
-wrong, they are just based on different amounts of data.
+wrong, they are just based on different amounts of data. The whole analysis is done using Dollar($)
+curreny unit not rupee.
+
+-Thankyou
