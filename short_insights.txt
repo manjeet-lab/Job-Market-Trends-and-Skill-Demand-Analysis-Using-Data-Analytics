@@ -51,7 +51,7 @@ and  percentages  can  look  a  bit  different from mine. This does not mean eit
 wrong, they are just based on different amounts of data. The whole analysis is done using Dollar($)
 curreny unit not rupee.
 
-I Used Star Schema by making Fact and Dimension tables in PowerBi using power 
+I Used Star Schema by making Fact and Dimension tables in PowerBi using power query
 
 Fact_JobPostings
 
