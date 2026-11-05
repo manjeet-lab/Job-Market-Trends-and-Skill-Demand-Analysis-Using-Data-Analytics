@@ -107,7 +107,6 @@ Based on the dashboard results:
 | Power Query      | Data cleaning and transformation    |
 | DAX              | Measures, KPIs and calculations     |
 | Data Modeling    | Star schema and table relationships |
-| Python           | Data analysis and preparation       |
 
 ## 🧹 Data Preparation & Modeling
 
